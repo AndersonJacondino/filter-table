@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.tableTop{
+  position: absolute!important;
+  background: #efefef;
+  padding: 13px;
+  box-shadow: 3px 0 25px -16px;
+}
