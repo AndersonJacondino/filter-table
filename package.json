@@ -10,7 +10,7 @@
     "react-bootstrap-table-next": "^3.1.9",
     "react-bootstrap-table2-filter": "^1.1.12",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1",
+    "react-scripts": "5.0.1",
     "react-table": "^7.0.0-alpha.35"
   },
   "scripts": {
